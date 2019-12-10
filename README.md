@@ -2,5 +2,5 @@
 trabajo 6_validadores en python
 
 #integrantes
-vega huaman cristiba
-rodriguez ramon
+Vega Huaman Cristina
+Rodriguez Ramon Jhenyfer
